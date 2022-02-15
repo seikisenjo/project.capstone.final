@@ -2,7 +2,7 @@
 
 # Differential drive maze solving robot employing left-hand rule
   
-# Able to memorize simplified pathway to exit after running 1st round in maze
+# Able to memorize simplified pathway to the exit after running 1st round in maze
   
 # System Overview
 
